@@ -102,3 +102,13 @@ ENV/
 
 #data
 .data/*
+.vector_cache/*
+saves/*
+tut1-model.pt
+tut2-model.pt
+tut3-model.pt
+tut4-model.pt
+tut5-model.pt
+.vscode/
+custom_embeddings/trained_embeddings.*
+experimental/.data/
